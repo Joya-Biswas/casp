@@ -77,7 +77,7 @@ The 'value propositions' will be CASP responsiblity.
 The 'practioner use cases' will be CASP-focused but involve IoV interactions.
 [Figure 1](./CaspIov.png) attempts to show this relationship.
 
-[Figure 1](./CaspIov.png)
+![Figure 1](./CaspIov.png)
 
 Village participants are encouraged to sign up for 
 Interoperatibility Village Sub 
@@ -92,7 +92,7 @@ but intent is to clean up exisitng use cases before focusing on 'the next use ca
 There was discussion of MQTT and interconnecting (and some revisit of the IoV/CASP interactions).
 John created [Figure 2](./arch.png) during the meeting to capture the concepts.
 
-[Figure 2](./arch.png)
+![Figure 2](./arch.png)
 
 ### VII.D Start list of Villages/Hamlets/Huts/....
 The group did not have time to go thru the details of 
