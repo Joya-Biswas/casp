@@ -74,8 +74,8 @@ and the automation.
 The CASP "huts" will ride on top of the Interoperability Village infrastructure 
 for interconnections between huts/neighborhoods/villages. 
 The 'value propositions' will be CASP responsiblity. 
-The 'practioner use cases' will be CASP-focused but involve IoV interactions.
-[Figure 1](./CaspIov.png) attempts to show this relationship.
+The 'practitioner use cases' will be CASP-focused but involve IoV interactions.
+[Figure 1](./IovCasp.png) attempts to show this relationship.
 
 ![Figure 1](./CaspIov.png)
 
@@ -104,7 +104,7 @@ Participants are encouraged to start sharing via email what they intend to provi
 * Next Village will be in Oct or Nov, date TBD
 * Next Village will start with exising use cases from past villages
    - Participants can propose additional use cases but intent is to clean up exisitng use cases before focusing on 'the next one'
-* The CASP portion of the next Village will focus on the use cases, the cybersecurity, and the automation. It will ride on top of the Interoperability Village infrastructure for interconnections between huts/neighborhoods/villages. The 'value propositions' will be CASP responsiblity. The 'practioner use cases' will be CASP-focused but involve IoV interactions.
+* The CASP portion of the next Village will focus on the use cases, the cybersecurity, and the automation. It will ride on top of the Interoperability Village infrastructure for interconnections between huts/neighborhoods/villages. The 'value propositions' will be CASP responsiblity. The 'practitioner use cases' will be CASP-focused but involve IoV interactions.
 * CASP "huts" should use HeadScale (a change from MeshCentral) for IoV connectivity/infrastructure.
 
 ## IX. Action Items
