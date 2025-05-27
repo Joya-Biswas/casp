@@ -77,7 +77,7 @@ The 'value propositions' will be CASP responsiblity.
 The 'practitioner use cases' will be CASP-focused but involve IoV interactions.
 [Figure 1](./IovCasp.png) attempts to show this relationship.
 
-![Figure 1](./CaspIov.png)
+![Figure 1](./IovCasp.png)
 
 Village participants are encouraged to sign up for 
 Interoperatibility Village Sub 
