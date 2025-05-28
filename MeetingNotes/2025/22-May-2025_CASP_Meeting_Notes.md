@@ -113,7 +113,7 @@ Participants are encouraged to start sharing via email what they intend to provi
 * If interested in participating in next Village, please sign up for Interoperatibility Village Sup Project (https://lists.oasis-open-projects.org/g/oca-interop-village) as CASP rides on top of IoV for this fall.
 
 ## X. Cadence and date of next meeting(s)
-It was agreed the cadence would continue momthly until we had more substance.
+It was agreed the cadence would continue monthly until we had more substance.
 The next meeting will be 12-June at 16:00 UTC (17:00 CET, 11:00 EST, 8:00 PST).
 The July meeting will be 24-July at 16:00 UTC (17:00 CET, 11:00 EST, 8:00 PST).
 As we get nearer to the Villaged, it is likely we will meet more frequently.
