@@ -9,13 +9,15 @@
 - Permission was asked and granted, and meeting was recorded for notekeeping purposes
 
 ## II. Record Attendance
-| Given Name | Family Name | Affiliation | Role |
+| Given Name | Surname | Affiliation | Role |
 |:-----------|:------------|:------------------------------------------------------------|:----------------------------|
 | Duncan | Sparrell | sFractal | Secretary |
-| Patrick | Maroney | AT&T | Member |
-| John | Cavanaugh | IIS | Member |
 | Jason | O'Connor | JHU APL | Member |
+| John | Cavanaugh | IIS | Member |
 | Kevin | Cressman | HII | Member |
+| Larry | Feldman | HII | Member |
+| Patrick | Maroney | AT&T | Member |
+| Vasileios| Mavroeidis | Univ of Oslo | Member |
 
 ## III. Agenda
 * Call to order
